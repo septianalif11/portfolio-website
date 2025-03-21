@@ -23,19 +23,19 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect with me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/whoshann" target="_blank">
+  <a href="https://linkedin.com/in/cahyodesign" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/moshndy___/" target="_blank">
+  <a href="https://instagram.com/dinz_store7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:moch.shandywijayanto@gmail.com" target="_blank">
+  <a href="mailto:septianalif122@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/whoshnn_" target="_blank">
+  <a href="https://discord.com/users/ronsahacuy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
@@ -68,13 +68,13 @@
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJjMzk5ZmQ5YmY3NzFhOTRhNGY1ZWZhYzc3NmZmMDIwNzU5NzM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Profile Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whoshann&layout=compact&theme=radical&hide_border=true&langs_count=8" width="370" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cahyodesign&layout=compact&theme=radical&hide_border=true&langs_count=8" width="370" alt="Most Used Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoshann&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cahyodesign&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoshann&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahyodesign&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -92,7 +92,7 @@
   Visitor count
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/whoshann/count.svg" />
+  <img src="https://profile-counter.glitch.me/cahyodesign/count.svg" />
 </p>
 
 <div align="center">
